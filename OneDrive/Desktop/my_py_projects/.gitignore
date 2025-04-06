@@ -1,0 +1,8 @@
+# Ignore all files by default
+*
+
+# Track specific files
+!.gitignore
+!*.py
+
+
