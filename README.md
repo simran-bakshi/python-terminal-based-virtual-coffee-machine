@@ -32,15 +32,3 @@ It’s designed to demonstrate **object-oriented thinking, loops, and conditiona
 | 📊 **Stock Report** | View remaining resources and total collected money |
 | 🧑‍💻 **Interactive CLI** | Command-line interface with clean prompts and feedback |
 
----
-
-## 🧩 Project Structure  
-
-```bash
-python-terminal-based-virtual-coffee-machine/
-├── coffee_machine.py        # ☕ Main program logic
-├── menu.py                  # 📋 Coffee recipes & prices
-├── resources.py             # 🧾 Available resources (water, milk, coffee)
-├── money_machine.py         # 💰 Handles payments and transactions
-├── README.md                # 🧠 Project documentation
-└── data/                    # 📦 (Optional) Store logs or reports
